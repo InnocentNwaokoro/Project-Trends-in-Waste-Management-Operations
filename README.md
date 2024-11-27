@@ -1,6 +1,8 @@
 # Project-Trends-in-Waste-Management-Operations
+---
 
 ## Table of Contents
+---
 
 - [Project Overview](#project-Overview)
 - [Data Sources](#data-sources)
@@ -14,6 +16,8 @@
 - [Refrences](#refrences)
 
 ### Project Overview
+
+---
 
 This data analysis project aims to explore and analyze operational trends in waste management facilities, focusing on service usage, wait times, costs, and site-specific performance. The goal is to derive actionable insights for optimizing operations and improving service efficiency.
 
