@@ -29,7 +29,7 @@ The dataset, originally sourced from the "environmental_sanitation_unit.csv" fil
 
 - Excel - Data Cleaning
 - SQL Server - Data Analysis
-- PowerBI - Creaing a Reports
+- PowerBI - Creating a Reports
 
 
 ### Data Cleaning/Preparation
